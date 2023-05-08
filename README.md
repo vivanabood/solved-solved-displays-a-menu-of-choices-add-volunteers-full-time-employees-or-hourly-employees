@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-displays-a-menu-of-choices-add-volunteers-full-time-employees-or-hourly-employees
+<br>
+The Assignment 5 class displays a menu of choices // (add volunteers, full time employees, or hourly employees, // compute their pay, search a member, list members, // quit, display menu) to a user. // Then it performs the chosen task. It will keep asking a user to // enter the next choice until the choice of ‘Q’ (Quit) is // entered
